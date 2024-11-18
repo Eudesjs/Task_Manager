@@ -65,9 +65,9 @@ A exclusão de uma tarefa é feita diretamente na página inicial, ao clicar no 
 ### Execução da Aplicação
 1. Certifique-se de ter o Python instalado e o Flask configurado:
    ```bash
-   pip install flask
+     pip install flask
 ### Execute O Arquivo Principal
-    python app.py
+     python app.py
 
 ### Acesse a Aplicação no Navegador pelo Endereço
-    http://127.0.0.1:5000/
+     http://127.0.0.1:5000/
